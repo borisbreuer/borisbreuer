@@ -2,8 +2,7 @@
 
 My name is Boris Breuer. I live in Cologne and I am developing in JavaScript. Sometimes I do something in PHP as well.
 
-I use Vue.js with its ecosystem for my Frontend. node.js with express.js and other npm packages for my backend. And MySQL as my database.
-I use docker for development purposes.
+I use Vue.js with its ecosystem for my frontend stuff. node.js with express.js and other npm packages for my backend. And MySQL as my database. I use docker for development purposes.
 
 
 
